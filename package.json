@@ -1,0 +1,19 @@
+{
+  "name": "front_end_group_score",
+  "version": "0.1.0",
+  "description": "看软件随想录，看到了乔尔测试，就想整理一个粗略的前端团队质量测试。当然这个肯定非常业余，仅仅供参考。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itbeihe/front_end_group_score.git"
+  },
+  "author": "beihe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itbeihe/front_end_group_score/issues"
+  },
+  "homepage": "https://github.com/itbeihe/front_end_group_score#readme"
+}
