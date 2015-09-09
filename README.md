@@ -24,8 +24,9 @@
 12分是完美，11分是尚可，10分以下就说明团队问题挺多。乔尔说他收到的结果中很多公司都是很低的评分，甚至二三分。当然这是十多年前的事了。现在太陈旧了。
 
 相关资料：
- [乔尔测试](http://www.joelonsoftware.com/articles/fog0000000043.html)
- [乔尔测试（翻译）](http://www.oschina.net/translate/12-steps-to-better-code)
+
+* [乔尔测试](http://www.joelonsoftware.com/articles/fog0000000043.html)
+* [乔尔测试（翻译）](http://www.oschina.net/translate/12-steps-to-better-code)
 
 ### 前端团队测试
 
